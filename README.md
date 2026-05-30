@@ -21,17 +21,9 @@ Backend engineer with over 9 years of professional experience specializing in ar
 *   **Enterprise Workflows:** Building secure multi-tenant data isolation mechanisms and robust multi-level approval workflows.
 *   **Data Processing:** Experience managing high-throughput data processing and streaming large-scale datasets efficiently without memory leaks.
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
 
 ---
 
 ### 🤝 Let's Connect
-*   **LinkedIn:** Sahaya Anish S(https://linkedin.com/in/sahaya-anish-394a29120)
+*   **LinkedIn:** S.Sahaya Anish(https://linkedin.com/in/sahaya-anish-394a29120)
 *   **Email:** sahayaanishjb@gmail.com
